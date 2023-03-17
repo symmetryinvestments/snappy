@@ -1,0 +1,7 @@
+name "snappy"
+description "Snappy ''A fast compressor/decompressor'' Deimos Bindings"
+homepage "https://code.google.com/p/snappy/"
+authors "Byron Heads"
+copyright "Copyright © 2011 Martin Gieseking"
+targetType "library"
+libs "snappy"
